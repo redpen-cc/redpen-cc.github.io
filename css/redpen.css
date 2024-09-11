@@ -1,0 +1,47 @@
+/*
+  RedPen CSS
+*/
+
+#intro.intro {
+    padding: 17% 0 0 0;
+}
+
+.top-nav-collapse {
+    background-color: #215599;
+    border-bottom: solid 1px rgba(255, 255, 255, 0.04) !important;
+}
+
+footer {
+    background-color: #587988;
+}
+
+.redpen-red {
+    color: #D3463C;
+}
+
+.redpen-lang {
+    cursor: pointer;
+}
+
+.redpen-lang.active {
+    text-decoration: underline;
+}
+
+.redpen-lang-selector {
+}
+
+.redpen-lang-selector a {
+    color: #aaa !important;
+    font-weight: normal !important;
+}
+
+.redpen-recruit-logo {
+    background-image: url(../img/logo/recruit.png);
+    background-repeat: no-repeat;
+    background-position: 2px bottom;
+    line-height: 32px !important;
+}
+
+.redpen-logo {
+    margin: 0 auto;
+}
